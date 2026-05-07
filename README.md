@@ -134,11 +134,24 @@ to me
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajat-wyrm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=rajat-wyrm&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+> ### ⚡ “Build systems that scale, solve problems that matter, and never stop learning.”
+>
+> — Rajat Kumar
+
+<br>
+
+### 🚀 Open to Full Stack, Backend, AI/ML & System Engineering Opportunities
+
+💡 Building scalable applications • Real-time systems • AI-integrated platforms • Distributed architectures
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
+
+</div>
 
 <!--
 **rajat-wyrm/rajat-wyrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
