@@ -2,7 +2,7 @@
 
 # Rajat Kumar
 
-### Full Stack Developer • AI Systems Engineer • MERN Stack Developer
+### Full Stack Developer • Backend Architect • AI Systems Engineer 
 
 <br>
 
