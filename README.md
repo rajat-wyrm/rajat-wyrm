@@ -17,6 +17,7 @@ to me
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatkumar7861813@gmail.com)
 
 </div>  
+
 💻 Full Stack Developer & AI Systems Engineer  
 🚀 Building scalable MERN stack, backend & real-time applications  
 🧠 Passionate about AI-integrated systems, RAG pipelines & distributed architectures  
