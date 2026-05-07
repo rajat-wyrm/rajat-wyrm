@@ -1,5 +1,22 @@
-# 💫 About Me:
-Rajat Kumar ⚡  
+
+Real Vetran
+01:17 (0 minutes ago)
+to me
+
+<div align="center">
+
+# Rajat Kumar
+
+### Full Stack Developer • AI Systems Engineer • MERN Stack Developer
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rajatkumar-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajat-kumar-sde)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajspectrix)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatkumar7861813@gmail.com)
+
+</div>  
 💻 Full Stack Developer & AI Systems Engineer  
 🚀 Building scalable MERN stack, backend & real-time applications  
 🧠 Passionate about AI-integrated systems, RAG pipelines & distributed architectures  
