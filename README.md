@@ -1,45 +1,27 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=240&section=header&text=Rajat%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Backend%20Architect%20•%20AI%20Systems%20Engineer&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Rajat%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Backend%20Architect%20•%20AI%20Systems%20Engineer&descAlignY=58&descAlign=50"/>
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=950&lines=Backend+Engineering;Real-Time+Distributed+Systems;AI-Integrated+Applications;Scalable+Full+Stack+Development;Cloud+%26+DevOps+Workflows;Building+Production-Grade+Systems;Open+Source+Contributor;Always+Learning+%26+Building"/>
-
-<br><br>
-
+<p align="center">
 <a href="https://rajatkumar-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/rajat-kumar-sde">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://instagram.com/rajspectrix">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 <a href="mailto:rajatkumar7861813@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=850&lines=Backend+Engineering;Real-Time+Distributed+Systems;AI-Integrated+Applications;Scalable+Full+Stack+Development;Cloud+%26+DevOps+Workflows;Building+Production-Grade+Systems"/>
 
 <img src="https://komarev.com/ghpvc/?username=rajat-wyrm&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/rajat-wyrm?style=for-the-badge&color=236ad3&labelColor=1155ba"/>
-
-<img src="https://img.shields.io/github/stars/rajat-wyrm?style=for-the-badge&color=55960c&labelColor=488207"/>
-
-<img src="https://img.shields.io/github/last-commit/rajat-wyrm/rajat-wyrm?style=for-the-badge&color=8b5cf6"/>
-
 </div>
-
----
-
-# About Me
 
 Full Stack Developer & AI Systems Engineer focused on backend engineering, scalable architectures, and real-time distributed systems.
 
@@ -118,8 +100,6 @@ Full Stack Developer & AI Systems Engineer focused on backend engineering, scala
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
----
-
 # GitHub Analytics
 
 <p align="center">
@@ -135,53 +115,19 @@ Full Stack Developer & AI Systems Engineer focused on backend engineering, scala
 <img src="https://github-profile-trophy.vercel.app/?username=rajat-wyrm&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajat-wyrm&theme=tokyo-night&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajat-wyrm&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajat-wyrm&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajat-wyrm&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajat-wyrm&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajat-wyrm&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
+</div>
 
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 ### Let's Build Something Great Together
 
 Open to Full Stack • Backend • AI/ML • System Engineering Opportunities
-
-<br>
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
 
