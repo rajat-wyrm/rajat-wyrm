@@ -13,16 +13,17 @@
 
 </div>  
 
-Full Stack Developer & AI Systems Engineer focused on backend engineering, scalable architectures, and real-time distributed systems. Currently working with UptoSkills in engineering and management roles, leading Full Stack, AI/ML, and Data Analytics teams while contributing to production-grade applications and execution pipelines.
+Full Stack Developer & AI Systems Engineer focused on backend engineering, scalable architectures, and real-time distributed systems. Currently working with UptoSkills in engineering and management roles, contributing to production-grade applications while leading large-scale intern operations and execution workflows.
 
-💼 Team Lead & Management Team Member at UptoSkills — managing projects, workflows, TLs, and 100+ interns across India  
+💼 Started as MERN Stack Intern at UptoSkills, promoted to Team Lead & Project Handler managing 100+ Full Stack, AI/ML, and Data Analytics interns across India  
+📈 Recently promoted to Management Team — currently overseeing Team Leads, Project Handlers, workflows, and operations for 800+ interns nationwide  
 🏗️ Strong interest in backend engineering, system design, microservices, and scalable infrastructure  
 🚀 Experienced with MERN stack, REST APIs, WebSockets, Apache Kafka, and cloud-based deployment workflows  
-🧠 Passionate about AI-integrated applications, RAG pipelines, automation systems, and real-time architectures  
+🧠 Passionate about AI-integrated applications, RAG pipelines, automation systems, and distributed real-time architectures  
 ⚡ Skilled in React.js, Node.js, Express.js, Spring Boot, MongoDB, PostgreSQL, Redis, and production APIs  
 📊 Hands-on experience in Data Science, ML workflows, analytics pipelines, and cloud lab environments  
-🧩 NCC Cadet Warrant Officer with leadership, coordination, and team management experience  
-🤝 Open to impactful engineering collaborations, innovative projects, and challenging problem-solving opportunities
+🧩 NCC Cadet Warrant Officer with leadership, coordination, discipline, and team management experience  
+🤝 Open to impactful engineering collaborations, innovative products, and challenging problem-solving opportunities
 
 
 
