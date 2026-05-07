@@ -15,15 +15,14 @@
 
 Full Stack Developer & AI Systems Engineer focused on backend engineering, scalable architectures, and real-time distributed systems. Currently working with UptoSkills in engineering and management roles, contributing to production-grade applications while leading large-scale intern operations and execution workflows.
 
-💼 Started as MERN Stack Intern at UptoSkills, promoted to Team Lead & Project Handler managing 100+ Full Stack, AI/ML, and Data Analytics interns across India  
-📈 Recently promoted to Management Team — currently overseeing Team Leads, Project Handlers, workflows, and operations for 800+ interns nationwide  
-🏗️ Strong interest in backend engineering, system design, microservices, and scalable infrastructure  
-🚀 Experienced with MERN stack, REST APIs, WebSockets, Apache Kafka, and cloud-based deployment workflows  
-🧠 Passionate about AI-integrated applications, RAG pipelines, automation systems, and distributed real-time architectures  
-⚡ Skilled in React.js, Node.js, Express.js, Spring Boot, MongoDB, PostgreSQL, Redis, and production APIs  
-📊 Hands-on experience in Data Science, ML workflows, analytics pipelines, and cloud lab environments  
-🧩 NCC Cadet Warrant Officer with leadership, coordination, discipline, and team management experience  
-🤝 Open to impactful engineering collaborations, innovative products, and challenging problem-solving opportunities
+💼 Started as MERN Stack Intern at UptoSkills  
+📈 Promoted to Team Lead & Project Handler managing 100+ interns  
+🚀 Currently part of Management Team overseeing 800+ interns, TLs, and workflows across India  
+⚡ Skilled in React.js, Node.js, Express.js, Spring Boot, MongoDB, PostgreSQL, Redis, WebSockets, and Apache Kafka  
+🧠 Interested in system design, distributed systems, cloud, and high-performance engineering  
+📊 Experience with AI/ML workflows, analytics pipelines, and production-grade APIs  
+🧩 NCC Cadet Warrant Officer with leadership and coordination experience  
+🤝 Open to collaborations, innovative projects, and challenging engineering problems
 
 
 
