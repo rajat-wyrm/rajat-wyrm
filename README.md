@@ -15,9 +15,8 @@
 
 Full Stack Developer & AI Systems Engineer focused on backend engineering, scalable architectures, and real-time distributed systems. Currently working with UptoSkills in engineering and management roles, contributing to production-grade applications while leading large-scale intern operations and execution workflows.
 
-💼 Started as MERN Stack Intern at UptoSkills  
-📈 Promoted to Team Lead & Project Handler managing 100+ interns  
-🚀 Currently part of Management Team overseeing 800+ interns, TLs, and workflows across India  
+💼 Started as MERN Stack Intern at UptoSkills → promoted to Team Lead & Project Handler of 100+ interns  
+🚀 Currently part of Management Team overseeing 800+ interns, project execution, and workflows across India
 ⚡ Skilled in React.js, Node.js, Express.js, Spring Boot, MongoDB, PostgreSQL, Redis, WebSockets, and Apache Kafka  
 🧠 Interested in system design, distributed systems, cloud, and high-performance engineering  
 📊 Experience with AI/ML workflows, analytics pipelines, and production-grade APIs  
