@@ -1,8 +1,3 @@
-
-Real Vetran
-01:17 (0 minutes ago)
-to me
-
 <div align="center">
 
 # Rajat Kumar
