@@ -2,24 +2,22 @@
 
 # Rajat Kumar
 
-### Full Stack Developer • Backend Architect • AI Systems Engineer 
-
-<br>
+### Full Stack Developer • Backend Architect • AI Systems Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rajatkumar-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajat-kumar-sde)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajspectrix)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatkumar7861813@gmail.com)
 
-</div>  
+</div>
 
-Full Stack Developer & AI Systems Engineer focused on backend engineering, scalable architectures, and real-time distributed systems. Currently working with UptoSkills in engineering and management roles, contributing to production-grade applications while leading large-scale intern operations and execution workflows.
+Full Stack Developer & AI Systems Engineer focused on backend engineering, scalable architectures, and real-time distributed systems.
 
-💼 Started as MERN Stack Intern at UptoSkills → promoted to Team Lead & Project Handler of 100+ interns  
-🚀 Currently part of Management Team overseeing 800+ interns, project execution, and technical workflows across India  
-⚡ Skilled in React.js, Node.js, Express.js, Spring Boot, MongoDB, PostgreSQL, Redis, WebSockets, and Apache Kafka  
-🧠 Interested in backend engineering, distributed systems, AI-integrated applications, and scalable architectures  
-🧩 NCC Air Wing Cadet Warrant Officer with leadership, aviation, defence exposure, and coordination experience
+• Started as MERN Stack Intern at UptoSkills → promoted to Team Lead & Project Handler of 100+ interns  
+• Currently part of Management Team overseeing 800+ interns, workflows, and project execution across India  
+• Skilled in React.js, Node.js, Express.js, Spring Boot, MongoDB, PostgreSQL, Redis, WebSockets, and Apache Kafka  
+• Interested in backend engineering, distributed systems, AI-integrated applications, and scalable architectures  
+• NCC Air Wing Cadet Warrant Officer with leadership, aviation, and coordination experience
 
 
 # 💻 Tech Stack
