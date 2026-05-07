@@ -21,7 +21,7 @@ Full Stack Developer & AI Systems Engineer focused on backend engineering, scala
 ⚡ Skilled in React.js, Node.js, Express.js, Spring Boot, MongoDB, PostgreSQL, Redis, WebSockets, and Apache Kafka  
 🧠 Interested in system design, distributed systems, cloud, and high-performance engineering  
 📊 Experience with AI/ML workflows, analytics pipelines, and production-grade APIs  
-🧩 NCC Cadet Warrant Officer with leadership and coordination experience  
+🧩 NCC Airwing Cadet Warrant Officer with leadership, aviation and defence exposure and coordination experience  
 🤝 Open to collaborations, innovative projects, and challenging engineering problems
 
 
