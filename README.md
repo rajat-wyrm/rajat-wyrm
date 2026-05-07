@@ -13,19 +13,16 @@
 
 </div>  
 
-💻 Full Stack Developer & AI Systems Engineer  
-🚀 Building scalable MERN stack, backend & real-time applications  
-🧠 Passionate about AI-integrated systems, RAG pipelines & distributed architectures  
-⚡ Skilled in React.js, Node.js, Express.js, Spring Boot, MongoDB, PostgreSQL & Redis  
-🔥 Working with WebSockets, Socket.IO, Apache Kafka & production-grade APIs  
-☁ Exploring Cloud, Docker, Linux & scalable deployment workflows  
-🛠 Strong focus on backend optimization, clean architecture & scalable system design  
-📊 Experience in Data Science, ML workflows & analytics pipelines  
-👨‍💼 Team Lead & Project Handler managing 100+ Full Stack, AI/ML & Data Analytics interns across India  
-🎯 Currently part of Management Team handling teams, TLs, workflows & execution pipelines  
-🧩 NCC Cadet Warrant Officer | Leadership, discipline & coordination experience  
-🌌 Curious about futuristic systems & high-performance engineering  
-📚 Constantly learning, building & improving every single day  
+Full Stack Developer & AI Systems Engineer focused on backend engineering, scalable architectures, and real-time distributed systems. Currently working with UptoSkills in engineering and management roles, leading Full Stack, AI/ML, and Data Analytics teams while contributing to production-grade applications and execution pipelines.
+
+💼 Team Lead & Management Team Member at UptoSkills — managing projects, workflows, TLs, and 100+ interns across India  
+🏗️ Strong interest in backend engineering, system design, microservices, and scalable infrastructure  
+🚀 Experienced with MERN stack, REST APIs, WebSockets, Apache Kafka, and cloud-based deployment workflows  
+🧠 Passionate about AI-integrated applications, RAG pipelines, automation systems, and real-time architectures  
+⚡ Skilled in React.js, Node.js, Express.js, Spring Boot, MongoDB, PostgreSQL, Redis, and production APIs  
+📊 Hands-on experience in Data Science, ML workflows, analytics pipelines, and cloud lab environments  
+🧩 NCC Cadet Warrant Officer with leadership, coordination, and team management experience  
+🤝 Open to impactful engineering collaborations, innovative projects, and challenging problem-solving opportunities
 
 
 
