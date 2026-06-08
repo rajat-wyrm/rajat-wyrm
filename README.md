@@ -113,43 +113,62 @@ Full Stack Developer & AI Systems Engineer focused on backend engineering, scala
 
 <p align="center">
   <a href="https://github.com/rajat-wyrm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajat-wyrm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=rajat-wyrm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400"
+    />
   </a>
 
   <a href="https://github.com/rajat-wyrm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-wyrm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-wyrm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajat-wyrm&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=rajat-wyrm&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajat-wyrm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=rajat-wyrm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajat-wyrm&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rajat-wyrm&theme=tokyo-night&hide_border=true&area=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajat-wyrm&theme=tokyonight" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajat-wyrm&theme=tokyonight"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajat-wyrm&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajat-wyrm&theme=tokyonight" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajat-wyrm&theme=tokyonight"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajat-wyrm&theme=tokyonight"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajat-wyrm&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajat-wyrm&theme=tokyonight&utcOffset=5.5" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajat-wyrm&theme=tokyonight"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajat-wyrm&theme=tokyonight&utcOffset=5"
+  />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 ---
 
 # Contribution Snake
