@@ -113,7 +113,7 @@ Full Stack Developer & AI Systems Engineer focused on backend engineering, scala
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajat-wyrm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-wyrm&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-wyrm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
@@ -121,25 +121,17 @@ Full Stack Developer & AI Systems Engineer focused on backend engineering, scala
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajat-wyrm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+  <img src="https://ghchart.rshah.org/rajat-wyrm" alt="rajat-wyrm's Github chart" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajat-wyrm&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=rajat-wyrm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajat-wyrm&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajat-wyrm&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajat-wyrm&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajat-wyrm&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajat-wyrm&theme=tokyonight&utcOffset=5"/>
+  <img src="https://komarev.com/ghpvc/?username=rajat-wyrm&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/rajat-wyrm?label=Followers&style=flat&theme=dark" />
+  <img src="https://img.shields.io/github/stars/rajat-wyrm?label=Stars&style=flat" />
 </p>
 
 ---
