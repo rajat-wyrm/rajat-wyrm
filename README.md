@@ -112,8 +112,8 @@ Full Stack Developer & AI Systems Engineer focused on backend engineering, scala
 # GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=rajat-wyrm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rajat-wyrm&theme=tokyonight&hide_border=true&layout=compact"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajat-wyrm&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-wyrm&theme=tokyonight&hide_border=true&layout=compact"/>
 </p>
 
 <p align="center">
@@ -121,11 +121,11 @@ Full Stack Developer & AI Systems Engineer focused on backend engineering, scala
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rajat-wyrm&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajat-wyrm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajat-wyrm&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajat-wyrm&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -139,7 +139,6 @@ Full Stack Developer & AI Systems Engineer focused on backend engineering, scala
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajat-wyrm&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajat-wyrm&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
