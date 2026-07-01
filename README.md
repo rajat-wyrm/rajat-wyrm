@@ -36,36 +36,6 @@ Currently focused on:
 
 ---
 
-## Core Competencies
-
-```
-Backend    → Node.js, Fastify, Express, Spring Boot, JWT, OAuth2, RBAC, Middleware
-Frontend   → React 19, Next.js, Vite, Tailwind CSS, Redux/Zustand, TanStack Query
-Real-time  → Socket.IO, WebSockets, Server-Sent Events, Apache Kafka
-Databases  → PostgreSQL 18, MongoDB, MySQL, SQLite, Redis (Upstash)
-AI / ML    → Multi-provider LLM orchestration, TensorFlow, Scikit-learn, NumPy, Pandas
-DevOps     → Docker, Kubernetes, GitHub Actions, Vercel, Render, Cloudflare, Nginx
-Languages  → JavaScript (ES2022), TypeScript, Java, Python, SQL, HTML, CSS
-Practices  → Argon2, CSRF, Rate Limiting, Audit Logging, OpenAPI, CI/CD, Git
-```
-
----
-
-## Featured Project — Quintern
-
-A 5-tier cohort operations platform with real-time collaboration and a 7-provider AI assistant. Production-grade, end-to-end typed, full observability.
-
-- **Stack:** Node 24, Fastify 5, React 19, Vite 6, PostgreSQL 18, Socket.IO, Cloudinary, Stripe
-- **Hierarchy:** Admin, Senior TL, TL, Captain, Intern — enforced at DB, middleware, API, and UI layers
-- **AI:** 7-provider fallback chain (Groq, Gemini, OpenAI, HuggingFace, DeepSeek, Anthropic, heuristic) with role-aware prompts
-- **Realtime:** Socket.IO with JWT auth, per-user and per-role rooms, presence, 4 ms heartbeat
-- **Security:** JWT + refresh rotation, CSRF, Argon2, HMAC-SHA256 webhook verification, audit log
-- **CI / CD:** 3 GitHub Actions workflows, all green on every push, 44/44 tests passing
-
-Repository: [github.com/rajat-wyrm/Quintern](https://github.com/rajat-wyrm/Quintern)
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -127,17 +97,6 @@ Repository: [github.com/rajat-wyrm/Quintern](https://github.com/rajat-wyrm/Quint
 
 ---
 
-## Professional Highlights
-
-- Scaled from Intern to Project Manager in under two years at Uptoskills
-- Currently oversee engineering operations for 800+ interns across multiple cohorts
-- Designed and built a 5-tier RBAC architecture (Admin, Senior TL, TL, Captain, Intern) for the Quintern platform
-- Implemented 7-provider AI fallback chain that guarantees an answer regardless of any single provider outage
-- Built Socket.IO real-time layer with JWT auth, per-role rooms, and presence (4 ms heartbeat)
-- Architected 80+ REST endpoints across 21 feature modules with comprehensive audit logging
-
----
-
 ## GitHub Analytics
 
 <p align="center">
@@ -170,27 +129,6 @@ Repository: [github.com/rajat-wyrm/Quintern](https://github.com/rajat-wyrm/Quint
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajat-wyrm&theme=tokyonight" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajat-wyrm&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
 </p>
-
----
-
-## Currently Learning
-
-- Distributed systems design patterns (consensus, partitioning, replication)
-- Advanced Kubernetes operators and service mesh (Istio, Linkerd)
-- LLM fine-tuning and retrieval-augmented generation (RAG)
-- Systems programming with Rust
-- Engineering leadership at scale — building high-trust, high-autonomy teams
-
----
-
-## Connect
-
-Open to collaboration on full-stack, backend, AI/ML, and systems engineering projects. Whether you are building something ambitious and need a technical partner, or you want to talk shop about cohort operations, real-time systems, or AI orchestration — reach out.
-
-- Portfolio: [rajatkumar-portfolio.vercel.app](https://rajatkumar-portfolio.vercel.app)
-- LinkedIn: [linkedin.com/in/rajat-kumar-sde](https://linkedin.com/in/rajat-kumar-sde)
-- Email: [rajatkumar7861813@gmail.com](mailto:rajatkumar7861813@gmail.com)
-- Instagram: [@rajspectrix](https://instagram.com/rajspectrix)
 
 ---
 
