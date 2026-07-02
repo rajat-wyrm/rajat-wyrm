@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=240&section=header&text=Rajat%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Backend%20Architect%20•%20AI%20Systems%20Engineer&descAlignY=60&descAlign=50" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=280&section=header&text=Rajat%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20AI%20Systems%20Engineer&descAlignY=60&descAlign=50" alt="Header"/>
 
 <p align="center">
 <a href="https://rajatkumar-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -20,80 +20,82 @@
 
 ---
 
+## GitHub Achievements
+
+<div align="center">
+
+[![Pull Shark](https://img.shields.io/badge/-Pull%20Shark-3E8BF0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajat-wyrm/Skillnova/pulls)
+[![Galaxy Brain](https://img.shields.io/badge/-Galaxy%20Brain-F9D71C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rajat-wyrm/Skillnova/issues)
+[![Starstruck](https://img.shields.io/badge/-Starstruck-E5383B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajat-wyrm/Skillnova)
+[![Pair Extraordinaire](https://img.shields.io/badge/-Pair%20Extraordinaire-539BF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajat-wyrm/Skillnova/pulls)
+[![YOLO](https://img.shields.io/badge/-YOLO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajat-wyrm/Skillnova/pulls)
+[![Quickdraw](https://img.shields.io/badge/-Quickdraw-E148FC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajat-wyrm/Skillnova/issues)
+
+</div>
+
+---
+
 ## About
 
-I am a Full Stack Developer and Backend Systems Engineer focused on production-grade systems, real-time distributed architectures, and AI-integrated applications. My professional journey at Uptoskills has taken me from MERN Stack Intern to Team Lead and Project Manager, now part of the management team overseeing the workflows and project execution of more than 800 interns nationwide.
+<div align="center">
 
-Beyond software, I serve as a Warrant Officer in the NCC Air Wing, where I have developed the leadership, aviation, and operational coordination experience that I bring into engineering management.
+I am a **Full Stack Developer** and **Backend Systems Engineer** focused on production-grade systems, real-time distributed architectures, and AI-integrated applications. My professional journey at **Uptoskills** has taken me from MERN Stack Intern to **Team Lead** and **Project Manager**, now part of the management team overseeing the workflows and project execution of **800+ interns** nationwide.
 
-Currently focused on:
+Beyond software, I serve as a **Warrant Officer** in the **NCC Air Wing**, where I have developed the leadership, aviation, and operational coordination experience that I bring into engineering management.
 
-- Backend engineering at scale with Node.js, Fastify, and Spring Boot
-- Real-time distributed systems using WebSockets, Socket.IO, and Apache Kafka
-- AI-integrated applications with multi-provider LLM fallback architectures
-- Cloud-native deployments on Vercel, Render, Neon, Upstash, and Cloudflare
-- Engineering management — running 5-tier cohort structures end to end
+</div>
+
+### What I'm Currently Building
+
+- **Skillnova** — Full-stack production intern platform (170+ commits, 78 forks, 6 stars)
+- **Real-time distributed systems** — WebSocket orchestration, Socket.IO, Apache Kafka
+- **AI-integrated applications** — Multi-provider LLM fallback architectures
+- **Cloud-native deployments** — Vercel, Render, Neon, Upstash, Cloudflare
 
 ---
 
 ## Tech Stack
 
+<div align="center">
+
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![ThreeJS](https://img.shields.io/badge/ThreeJS-black?style=for-the-badge&logo=three.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Backend and APIs
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/ApacheKafka-000?style=for-the-badge&logo=apachekafka)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/ApacheKafka-000?style=flat-square&logo=apachekafka)
 
-### Databases and Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
 
-### Cloud and DevOps
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
-### AI and ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### AI & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B35?style=flat-square&logo=dataiku&logoColor=white)
 
-### Tools and Platforms
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 ---
 
@@ -120,15 +122,20 @@ Currently focused on:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajat-wyrm&theme=tokyonight" alt="Profile Details"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajat-wyrm&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajat-wyrm&theme=tokyonight" alt="Most Commit Language"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajat-wyrm&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajat-wyrm&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
-</p>
+## Pinned Repos
+
+<div align="center">
+
+[![Skillnova](https://github-readme-stats.vercel.app/api/pin/?username=rajat-wyrm&repo=Skillnova&theme=tokyonight&hide_border=true)](https://github.com/rajat-wyrm/Skillnova)
+[![InternOps](https://github-readme-stats.vercel.app/api/pin/?username=rajat-wyrm&repo=InternOps&theme=tokyonight&hide_border=true)](https://github.com/rajat-wyrm/InternOps)
+[![LMS-system](https://github-readme-stats.vercel.app/api/pin/?username=rajat-wyrm&repo=LMS-system&theme=tokyonight&hide_border=true)](https://github.com/rajat-wyrm/LMS-system)
+[![salesforge](https://github-readme-stats.vercel.app/api/pin/?username=rajat-wyrm&repo=salesforge&theme=tokyonight&hide_border=true)](https://github.com/rajat-wyrm/salesforge)
+[![brainbox-ai](https://github-readme-stats.vercel.app/api/pin/?username=rajat-wyrm&repo=brainbox-ai&theme=tokyonight&hide_border=true)](https://github.com/rajat-wyrm/brainbox-ai)
+[![Quintern](https://github-readme-stats.vercel.app/api/pin/?username=rajat-wyrm&repo=Quintern&theme=tokyonight&hide_border=true)](https://github.com/rajat-wyrm/Quintern)
+
+</div>
 
 ---
 
@@ -152,7 +159,9 @@ Currently focused on:
 
 ### Let's Build Something Great Together
 
-Open to Full Stack, Backend, AI/ML, and System Engineering opportunities.
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatkumar7861813@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajat-kumar-sde)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rajatkumar-portfolio.vercel.app)
 
 <br>
 
